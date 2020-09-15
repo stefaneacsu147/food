@@ -3,7 +3,7 @@ title:               Stefan
 tagline:             'Food diaries'
 description:         'Reviewing the food that I encounter in my daily life'
 url:                 https://stefaneacsu147.github.io
-baseurl:             '/'
+baseurl:             '/food'
 paginate:            5
 permalink:           pretty
 
