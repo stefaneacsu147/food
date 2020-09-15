@@ -1,8 +1,18 @@
+<!DOCTYPE html>
 <head>
-  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-117348922-2"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-117348922-2');
+  </script>
+
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5">
 
   <title>
     {% if page.title == "Home" %}
@@ -12,19 +22,17 @@
     {% endif %}
   </title>
 
-  {% if page.url and site.baseurl %}
-  <link rel="canonical" href="{{ page.url | absolute_url }}">
-  {% endif %}
-
-  <link rel="stylesheet" href="{{ '/public/css/poole.css' | absolute_url }}">
-  <link rel="stylesheet" href="{{ '/public/css/syntax.css' | absolute_url }}">
-  <link rel="stylesheet" href="{{ '/public/css/lanyon.css' | absolute_url }}">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
+  <link rel="stylesheet preload" href="{{ '/public/css/poole.css' | absolute_url }}" as="style">
+  <link rel="stylesheet preload" href="{{ '/public/css/syntax.css' | absolute_url }}" as="style">
+  <link rel="stylesheet preload" href="{{ '/public/css/lanyon.css' | absolute_url }}" as="style">
+  <link rel="stylesheet preload" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400" as="style">
 
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ '/public/apple-touch-icon-precomposed.png' | absolute_url }}">
   <link rel="shortcut icon" href="{{ '/public/favicon.ico' | absolute_url }}">
 
   <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ '/atom.xml' | absolute_url }}">
+
+  <link rel="canonical" href="https://food.neacsustefan.com"/>
 
   {% if site.google_analytics_id %}
   <script>
