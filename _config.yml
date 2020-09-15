@@ -1,0 +1,22 @@
+# Setup
+title:               Stefan
+tagline:             'Food diaries'
+description:         'Reviewing the food that I encounter in my daily life'
+url:                 https://neacsustefan.com
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Stefan Neacsu
+  url:               https://github.com/stefaneacsu147
+  email:             stefaneacsu@gmail.com
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.0.0
+google_analytics_id: #UA-XXXX-Y
