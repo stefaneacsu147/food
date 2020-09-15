@@ -9,7 +9,7 @@ tags:
 - delivery
 ---
 
-<img src="https://i.imgur.com/Lg0FQQY.jpg">
+<img src="https://i.imgur.com/Lg0FQQY.jpg" alt="milanesa">
 
 # Mundo Milanesa
 
@@ -25,17 +25,17 @@ In general they have only Milanesa's and fries (you can choose from normal fries
 
 I have ordered more than 8 times from them and I can say the quality is always the same. Not too bad not too god but is consistent which I think is important with the food in general so you cannot say you have sometimes a bad experience eating something good and next time you will be like: "I hope I do not get food poisoning".
 
-<img src="https://i.imgur.com/SqzJEpY.jpg">
+<img src="https://i.imgur.com/SqzJEpY.jpg" alt="milanesa">
 
 The food comes in the package like seen in the above photo, the portion I think is enough for a person and to satisfy your hunger for the needed time(s).
 
 I would attach down below some photos of my last order and my favorite one that I ordered the most which is Milanesa Parmesana which for me has the best taste and perfect combination.
 
-<img src="https://i.imgur.com/nnYqBhE.jpg">
+<img src="https://i.imgur.com/nnYqBhE.jpg" alt="milanesa">
 
 As you can see the Milanesa is pretty big and the portion in general is pretty generous for the price (8,90 €).
 
-<img src="https://i.imgur.com/Lg0FQQY.jpg">
+<img src="https://i.imgur.com/Lg0FQQY.jpg" alt="milanesa">
 
 ## Final
 Since the pandemic started and I am becoming more and more lazy to cook all of my meals at home I am ordering more and more food and I always was "picky" with food and my stomach is a bit sensitive so I cannot say I enjoy food as much as other people but probably <b>Mundo Milanesa<b> is one of the good restaurants that you can find on[ Glovo](https://glovoapp.com/en/bcn/store/mundo-milanesa-bcn/).
