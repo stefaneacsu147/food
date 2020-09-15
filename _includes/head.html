@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <head>
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-117348922-2"></script>
@@ -22,10 +23,6 @@
       {{ page.title }} &middot; {{ site.title }}
     {% endif %}
   </title>
-
-  {% if page.url and site.baseurl %}
-  <link rel="canonical" href="{{ page.url | absolute_url }}">
-  {% endif %}
 
   <link rel="stylesheet preload" href="{{ '/public/css/poole.css' | absolute_url }}" as="style">
   <link rel="stylesheet preload" href="{{ '/public/css/syntax.css' | absolute_url }}" as="style">

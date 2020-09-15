@@ -3,14 +3,14 @@ title:               Stefan
 tagline:             'Food diaries'
 description:         'Reviewing the food that I encounter in my daily life'
 url:                 https://stefaneacsu147.github.io
-baseurl:             '/food'
+baseurl:             '/'
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
   name:              Stefan Neacsu
-  url:               https://github.com/stefaneacsu147
+  url:               https://food.neacsustefan.com
   email:             stefaneacsu@gmail.com
 
 # Gems
