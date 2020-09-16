@@ -11,10 +11,10 @@ tags:
 - bestpoke
 - healthy
 - vegan
+layout: post
 ---
 
 <img src="https://i.imgur.com/6VLiVpE.png" alt="freshpoke">
-
 # The Healthy Poke
 
 Second review from the list will be for <b>[The Healthy Poke](https://www.healthypoke.com/)<b/> (Carrer de Morales, 27, 08029 Barcelona, España).
