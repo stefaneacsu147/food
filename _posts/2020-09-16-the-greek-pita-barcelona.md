@@ -18,7 +18,7 @@ tags:
 <img src="https://i.imgur.com/6sKqm6o.png" alt="greekpita">
 # The Greek Pita
 
-Third review from the list will be for <b>The Greek Pita<b/> (Carrer de Muntaner, 472, Barcelona).
+Second review from the list will be for <b>The Greek Pita<b/> (Carrer de Muntaner, 472, Barcelona).
 
 For this place I just found it recently since I was craving some good Gyros or something like a Souvlaki but of course is not the case. This does not compare to the one you find in Greece but they are decent for the price.
 

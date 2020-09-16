@@ -17,7 +17,7 @@ layout: post
 <img src="https://i.imgur.com/6VLiVpE.png" alt="freshpoke">
 # The Healthy Poke
 
-Second review from the list will be for <b>[The Healthy Poke](https://www.healthypoke.com/)<b/> (Carrer de Morales, 27, 08029 Barcelona, España).
+Third review from the list will be for <b>[The Healthy Poke](https://www.healthypoke.com/)<b/> (Carrer de Morales, 27, 08029 Barcelona, España).
 
 I discovered this place when I was looking for something more *"healthy"* since I ate a lot of fatty foods and my liver was complaining and wanted something different to feel better and not that greasy so c'est ca, that is how I discovered this place.
 
