@@ -15,7 +15,7 @@ title: Stefan's reviews
     <span class="post-date">{{ post.date | date_to_string }}</span>
     {% if post.content contains "<!-- more -->" %}
       {{ post.content | split:"<!-- more -->" | first % }}
-      <div style="text-align:right;">
+      <div>
         <a href="{{ post.url }}" style="color:#000;">Read More</a>
       </div>
     {% else %}
