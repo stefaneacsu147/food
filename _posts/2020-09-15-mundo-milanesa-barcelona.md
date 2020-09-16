@@ -17,6 +17,8 @@ First review from the list will be for [Mundo Milanesa](https://www.milanesabarc
 
 I discovered this restaurant some weeks ago when I was searching in the Glovo application for something new to eat since I was tired of all the burgers, asiatic food or the tapas.
 
+<!-- more -->
+
 If I recall correctly I stumbled upon them since they had a nice offer where you could get 2 menu's (Milanesa + fries) for the price of 1. I am not sure if they still have the offer but it is maybe worth to check since I can see they always run some kind of offers.
 
 In general they have only Milanesa's and fries (you can choose from normal fries, sweet potatoes ones or oven baked ones) and for sweets or deserts they have ice cream (Ben & Jerry) different flavours and some Nutella Cookies.

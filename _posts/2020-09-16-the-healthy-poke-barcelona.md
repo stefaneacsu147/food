@@ -21,6 +21,8 @@ Second review from the list will be for <b>[The Healthy Poke](https://www.health
 
 I discovered this place when I was looking for something more *"healthy"* since I ate a lot of fatty foods and my liver was complaining and wanted something different to feel better and not that greasy so c'est ca, that is how I discovered this place.
 
+<!-- more -->
+
 As the name suggests they have different Poke bowls that I would say are pretty good taste wise and at an affordable price.
 	
 ## Food
