@@ -1,5 +1,20 @@
 ---
 title: Gonzalez & Co, Barcelona
+layout: post
+tags:
+- food
+- barcelona
+- healthy
+- vegan
+- bestp
+- bestpoke
+- bcn
+- delivery
+- glovo
+- mexican
+- texmex
+- deliveroo
+- bestmexicanfood
 ---
 
 <img src="https://i.imgur.com/5Gsam1k.png" alt="gonzalez">
